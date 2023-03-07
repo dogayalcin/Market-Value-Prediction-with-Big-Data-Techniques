@@ -1,0 +1,81 @@
+Team,League,player,Substitution,xG Per Avg Match,Shots,OnTarget,Shots Per Avg Match,On Target Per Avg Match,value,nationality,position,squad,goals,goals_per_shot,passes_completed,assisted_shots,passes_blocked,touches,height,assists,games_starts,minutes
+0,MLS,Robert Beric,1,0.46,62,28,2.86,1.29,2400000,si SVN,"FW,MF",Saint-Ž?ƒ?øtienne,1,0.14,46,3,5,115,188,0,4,413
+1,La Liga,Karim Benzema,0,0.63,27,12,3.46,1.54,32000000,fr FRA,FW,Real Madrid,21,0.14,1119,61,36,1688,184,8,36,3141
+2,La Liga,Carlos Soler,1,0.53,8,5,1.27,0.79,40000000,es ESP,MF,Valencia,2,0.11,582,12,26,932,180,0,24,2066
+3,La Liga,Cristian Tello,4,0.29,22,8,3.32,1.21,4000000,es ESP,"MF,FW",Betis,2,0.11,285,7,16,453,178,0,5,787
+4,La Liga,Mikel Oyarzabal,2,0.88,31,16,4,2.07,48000000,es ESP,"FW,MF",Real Sociedad,10,0.11,828,53,88,1571,181,11,36,3051
+5,La Liga,Esteban Burgos,1,0.46,5,4,0.81,0.65,72500,ar ARG,DF,Eibar,1,0.5,244,1,3,515,191,0,11,1119
+6,La Liga,Lucas Perez,2,0.65,13,6,1.94,0.89,12000000,es ESP,FW,AlavŽ???s,11,0.14,448,60,28,938,180,5,29,2496
+7,La Liga,Lionel Messi,1,0.63,39,19,4.5,2.19,112000000,ar ARG,"FW,MF",Barcelona,25,0.13,1700,86,62,2614,170,21,32,2880
+8,La Liga,Federico Valverde,2,0.19,9,5,1.51,0.84,54000000,uy URU,MF,Real Madrid,2,0.09,985,19,18,1316,182,5,21,1907
+9,La Liga,Antoine Griezmann,1,0.55,18,8,2.7,1.2,96000000,fr FRA,FW,Barcelona,9,0.16,935,33,49,1408,176,4,31,2549
+10,La Liga,Iago Aspas,0,0.44,21,12,1.89,1.08,16000000,es ESP,FW,Celta Vigo,14,0.12,998,54,63,1676,176,3,37,3262
+11,La Liga,Ansu Fati,1,0.38,14,7,2.95,1.47,80000000,es ESP,"FW,DF",Barcelona,7,0.21,446,17,13,724,178,1,11,1027
+12,La Liga,Gerard Moreno,0,0.74,29,11,3.35,1.27,16000000,es ESP,"FW,MF",Villarreal,18,0.2,743,50,48,1447,180,5,33,2744
+13,Serie A,Roberto Soriano,0,0.27,18,7,2.01,0.78,6000000,it ITA,MF,Bologna,5,0.14,1031,54,34,1484,182,5,29,2469
+14,Serie A,Francesco Caputo,0,0.59,18,9,3.02,1.51,5000000,it ITA,FW,Sassuolo,21,0.26,635,49,21,1087,181,7,33,2931
+15,Serie A,Andrea Belotti,0,0.44,24,11,3.02,1.39,32000000,it ITA,FW,Torino,16,0.09,502,37,66,1234,181,3,34,3008
+16,Serie A,Gaetano Castrovilli,0,0.18,11,7,1.38,0.88,20000000,it ITA,MF,Fiorentina,3,0.06,922,35,41,1609,187,2,31,2673
+17,Serie A,Giovanni Simeone,0,0.47,15,5,2.15,0.72,13000000,ar ARG,FW,Cagliari,12,0.14,350,17,30,910,181,3,34,2924
+18,Serie A,Domenico Berardi,0,0.25,21,11,2.6,1.36,19000000,it ITA,FW,Sassuolo,14,0.1,879,53,49,1612,183,10,29,2493
+19,Serie A,Henrikh Mkhitaryan,0,0.67,30,14,3.45,1.61,20000000,am ARM,FW,Arsenal,0,0,58,2,5,98,177,0,1,112
+20,Serie A,Henrikh Mkhitaryan,0,0.67,30,14,3.45,1.61,20000000,am ARM,"MF,FW",Roma,9,0.21,582,26,27,915,177,5,16,1530
+21,Serie A,Jordan Veretout,0,0.43,18,7,2.22,0.86,20000000,fr FRA,MF,Roma,6,0.04,1446,40,21,1870,177,0,30,2629
+22,Serie A,Luis Muriel,4,1,20,7,7.2,2.52,15000000,co COL,FW,Atalanta,18,0.17,377,35,30,798,179,1,10,1260
+23,Serie A,Cristiano Ronaldo,1,1.27,26,13,6.22,3.11,60000000,pt POR,FW,Juventus,31,0.1,1086,50,53,1761,187,5,33,2917
+24,Serie A,Romelu Lukaku,2,1.19,22,10,3.6,1.64,68000000,be BEL,FW,Inter,23,0.18,580,54,32,1179,191,2,33,2979
+25,Serie A,Dries Mertens,0,0.38,24,11,3.7,1.7,20000000,be BEL,FW,Napoli,9,0.12,536,55,31,909,169,7,18,1689
+26,Serie A,Ciro Immobile,1,0.62,22,8,3.66,1.33,40000000,it ITA,FW,Lazio,36,0.17,715,54,58,1337,185,9,36,3170
+27,Serie A,Fabio Quagliarella,1,0.61,23,9,3.15,1.23,1000000,it ITA,FW,Sampdoria,11,0.06,376,35,19,836,180,3,26,2275
+28,Serie A,Zlatan Ibrahimovic,0,1.35,35,16,5.97,2.73,3500000,se SWE,FW,Milan,10,0.13,434,28,25,813,195,5,16,1362
+29,Serie A,Hirving Lozano,0,0.49,18,11,3.01,1.84,28000000,mx MEX,FW,Napoli,4,0.12,270,21,22,535,175,1,10,1025
+30,Bundesliga,Lucas Alario,1,0.52,20,11,3.39,1.86,13000000,ar ARG,FW,Leverkusen,7,0.13,227,15,8,466,185,1,11,1174
+31,Bundesliga,Bas Dost,1,0.42,14,8,1.82,1.04,5500000,nl NED,FW,Eint Frankfurt,8,0.25,273,18,18,584,196,2,16,1475
+32,Bundesliga,Serge Gnabry,1,0.24,18,9,2.73,1.37,72000000,de GER,"FW,MF",Bayern Munich,12,0.13,883,47,52,1468,176,10,26,2193
+33,Bundesliga,Wout Weghorst,1,0.68,25,14,3.05,1.71,21000000,nl NED,FW,Wolfsburg,16,0.15,533,37,48,1189,197,3,30,2739
+34,Bundesliga,Dani Olmo,0,0.26,19,8,2.16,0.91,33000000,es ESP,"MF,FW",RB Leipzig,3,0.14,279,9,15,489,179,1,9,747
+35,Bundesliga,Ellyes Skhiri,0,0.25,6,3,0.8,0.4,6000000,tn TUN,MF,KŽ???ln,1,0.04,1190,18,16,1739,185,3,31,2672
+36,Bundesliga,Thomas Muller,0,0.37,13,5,1.5,0.58,25000000,de GER,"MF,FW",Bayern Munich,8,0.15,1023,82,55,1650,185,21,26,2255
+37,Bundesliga,Andre Silva,0,0.88,37,16,4.38,1.9,16000000,pt POR,FW,Eint Frankfurt,12,0,6,0,21,702,184,3,16,1575
+38,Bundesliga,Andre Silva,0,0.88,37,16,4.38,1.9,16000000,pt POR,FW,Milan,0,0.2,340,29,0,23,184,0,1,60
+39,Bundesliga,Andre Hahn,2,0.25,12,6,2.08,1.04,1000000,de GER,"FW,MF",Augsburg,1,0.07,102,8,17,322,185,0,8,702
+40,Bundesliga,Jean-Philippe Mateta,0,0.79,23,12,3.02,1.58,17000000,fr FRA,FW,Mainz 05,3,0.06,132,5,13,355,192,1,12,1053
+41,Bundesliga,Andrej Kramaric,0,0.91,23,14,4.54,2.77,32000000,hr CRO,"FW,MF",Hoffenheim,12,0.25,445,23,15,719,177,2,14,1422
+42,Bundesliga,Niclas Fullkrug,1,0.98,13,7,4.22,2.27,3000000,de GER,FW,Werder Bremen,4,0.22,79,4,8,174,189,1,4,403
+43,Bundesliga,Lars Stindl,2,0.59,19,9,3.18,1.51,6000000,de GER,"MF,FW",M'Gladbach,9,0.22,616,27,21,948,181,3,14,1432
+44,Bundesliga,Daniel Caligiuri,0,0.09,11,5,1.24,0.56,4000000,it ITA,"MF,FW",Schalke 04,2,0.02,637,39,80,1422,182,2,26,2293
+45,Bundesliga,Jhon Cordoba,2,0.43,18,5,3.47,0.96,9000000,co COL,FW,KŽ???ln,13,0.2,320,20,15,738,188,2,23,1998
+46,Bundesliga,Nils Petersen,3,0.33,15,7,2.34,1.09,6000000,de GER,"FW,MF",Freiburg,11,0.18,332,32,24,818,188,2,24,2436
+47,Bundesliga,Matheus Cunha,0,0.38,26,15,2.88,1.66,13000000,br BRA,"FW,MF",Hertha BSC,6,0.17,121,7,4,315,184,0,9,744
+48,Bundesliga,Matheus Cunha,0,0.38,26,15,2.88,1.66,13000000,br BRA,"FW,MF",RB Leipzig,0,0,74,3,1,156,184,1,2,279
+49,Bundesliga,Robert Lewandowski,1,1.1,35,17,4.95,2.4,56000000,pl POL,FW,Bayern Munich,34,0.22,592,37,40,1203,185,4,31,2759
+50,France Ligue 18,Ludovic Blas,1,0.18,19,7,1.82,0.67,8000000,fr FRA,"FW,MF",Nantes,5,0.11,540,24,23,978,180,1,22,1845
+51,France Ligue 12,Stephane Bahoken,2,0.52,30,14,4.43,2.07,4000000,cm CMR,FW,Angers,4,0.15,150,10,6,341,185,0,10,907
+52,France Ligue 10,Kevin Volland,1,0.46,12,11,1.61,1.47,28000000,de GER,FW,Leverkusen,10,0.13,429,34,36,881,179,7,24,2047
+53,France Ligue 3,Andy Delort,0,0.44,31,14,3.26,1.47,10000000,dz ALG,FW,Montpellier,9,0.11,451,36,46,1117,182,3,26,2280
+54,France Ligue 5,Ibrahima Niane,0,0.68,21,9,4.14,1.77,3000000,sn SEN,FW,Metz,3,0.07,204,9,9,468,187,0,9,951
+55,France Ligue 2,Boulaye Dia,1,0.65,25,12,3.08,1.48,4000000,sn SEN,FW,Reims,7,0.15,251,23,12,579,180,1,21,1812
+56,France Ligue 20,Moise Kean,0,0.67,14,5,2.93,1.05,25000000,it ITA,FW,Everton,2,0.07,104,8,11,275,183,2,6,852
+57,Ligue 1,Ignatius Ganago,3,0.7,14,7,2.94,1.47,3000000,cm CMR,"FW,MF",Nice,3,0.18,283,11,16,521,179,1,12,1239
+58,Ligue 1,Irvin Cardona,5,0.41,21,8,3.18,1.21,4000000,fr FRA,"FW,MF",Brest,6,0.12,290,17,19,666,185,3,15,1450
+59,Ligue 1,Florian Thauvin,0,0.34,21,8,2.39,0.91,32000000,fr FRA,FW,Marseille,0,0,12,0,0,22,179,0,0,22
+60,Ligue 1,Amine Gouiri,2,0.35,26,10,2.74,1.05,4000000,fr FRA,FW,Lyon,0,0,0,0,0,0,180,0,0,1
+61,Ligue 1,Jonathan Bamba,1,0.15,25,9,2.24,0.81,16000000,fr FRA,"FW,MF",Lille,1,0,669,35,29,1110,175,4,22,1937
+62,Ligue 1,Ludovic Ajorque,0,0.34,17,8,1.6,0.75,6000000,re REU,FW,Strasbourg,8,0.16,371,14,12,755,197,4,24,2058
+63,Ligue 1,Memphis Depay,3,0.5,30,10,3.16,1.05,44000000,nl NED,"FW,MF",Lyon,9,0.17,368,22,13,640,176,2,12,1018
+64,Ligue 1,Gael Kakuta,1,0.5,18,6,2.18,0.73,2000000,cd COD,"MF,FW",Amiens,2,0.05,592,28,46,1211,173,5,23,2001
+65,Ligue 1,James Ward-Prowse,0,0.07,10,7,0.99,0.69,14000000,eng ENG,"MF,DF",Southampton,5,0.07,1458,61,41,2399,177,3,38,3420
+66,Ligue 1,Bruno Fernandes,0,0.64,30,14,3.52,1.64,48000000,pt POR,MF,Manchester Utd,8,0.1,608,34,39,1000,179,7,14,1186
+67,Ligue 1,Dominic Calvert-Lewin,0,0.72,32,18,3.23,1.82,24000000,eng ENG,FW,Everton,13,0.16,393,15,25,973,187,1,30,2626
+68,Ligue 1,Timo Werner,0,0.4,23,10,2.49,1.08,64000000,de GER,FW,RB Leipzig,28,0.21,764,53,65,1455,181,8,33,2795
+69,Ligue 1,Callum Wilson,0,0.74,18,8,2.05,0.91,24000000,eng ENG,FW,Bournemouth,8,0.15,345,25,47,881,180,1,32,2908
+70,Ligue 1,Diogo Jota,3,0.45,20,11,3.58,1.97,40000000,pt POR,"FW,MF",Wolves,7,0.1,681,32,47,1248,178,1,27,2284
+71,Ligue 1,Wilfried Zaha,0,0.53,18,7,2.2,0.85,44000000,ci CIV,"MF,FW",Crystal Palace,4,0.07,935,36,72,1859,180,3,37,3280
+72,Premier League,Jack Grealish,0,0.31,26,9,2.83,0.98,30000000,eng ENG,"FW,MF",Aston Villa,8,0.11,1217,92,50,2029,180,6,36,3233
+73,Premier League,Jarrod Bowen,0,0.33,22,5,2.47,0.56,16000000,eng ENG,FW,West Ham,1,0.04,188,14,16,421,175,4,11,917
+74,Premier League,Mohamed Salah,0,0.7,35,15,4,1.71,120000000,eg EGY,FW,Liverpool,19,0.12,746,54,47,1405,175,10,33,2876
+75,Premier League,Jamie Vardy,1,1.06,21,15,2.56,1.83,16000000,eng ENG,FW,Leicester City,23,0.22,314,28,28,734,179,5,34,3033
+76,Premier League,Harry Kane,0,0.66,39,15,3.88,1.49,120000000,eng ENG,FW,Tottenham,18,0.21,394,24,33,923,188,2,29,2587
+77,Premier League,Neal Maupay,0,0.79,25,11,3.02,1.33,17000000,fr FRA,FW,Brighton,10,0.1,540,26,33,1063,173,3,30,2766
+78,Premier League,Sadio Mane,1,0.59,27,13,3.27,1.57,120000000,sn SEN,FW,Liverpool,18,0.24,933,56,50,1590,174,7,31,2747
+79,Premier League,Riyad Mahrez,0,0.3,21,10,3.26,1.55,48000000,dz ALG,FW,Manchester City,11,0.14,1009,58,27,1476,179,9,21,1944
